@@ -59,7 +59,9 @@ namespace CISP430_A1
     statistician operator+(const statistician &s1, const statistician &s2)
     {
         statistician output;
-
+        output.count = s1.count + s2.count;
+        output.total = s1.total + s2.total;
+        
         if (s1.count == 0)
         {
             output = s2;
