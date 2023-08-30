@@ -4,7 +4,8 @@ Author: Venkata G. Ande
 Assignment number: A1
 File name: stats.h
 Purpose of Program: this program performs a series of operations 
-such as finding the sum, mean, minimum, and maximum of numbers.
+such as finding the sum, mean, minimum, and maximum of numbers to 
+mimic a statistician's operations.
 
 */
 

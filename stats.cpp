@@ -2,7 +2,6 @@
 // implemented from stats.h
 
 #include <cassert>
-// #include <iostream> may not need this since already included in header file
 #include "stats.h"
 using namespace std;
 using namespace CISP430_A1;
